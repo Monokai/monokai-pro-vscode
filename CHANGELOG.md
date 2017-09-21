@@ -1,5 +1,16 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.1 (21-09-17)
+
+- [new] csv and sql icons
+- [new] added some JSDoc highlighting
+- [new] added underline on active tabs
+- [new] defined colors for new editor overview ruler settings
+- [fix] changed focus border color
+- [fix] debug toolbar background color
+- [fix] various syntax highlighting fixes
+- [fix] when selecting a Monokai Pro theme, the icon theme will change along only if the current icon theme is already a Monokai Pro icon theme
+
 ## 1.1.0 (30-08-17)
 
 - [new] scope selectors rewrite for better syntax highlighting in more languages
