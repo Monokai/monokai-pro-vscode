@@ -1,5 +1,11 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.2 (04-10-17)
+
+- [new] add transparency to tab drop background
+- [new] todo / fixme highlighting in python comments
+- [fix] find all references files color fix
+
 ## 1.1.1 (21-09-17)
 
 - [new] csv and sql icons
