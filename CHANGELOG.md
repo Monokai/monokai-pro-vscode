@@ -1,9 +1,21 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.5 (31-12-17)
+
+- [new] handlebars icon
+- [fix] sass / scss updates
+- [fix] removed dashed border in diff views
+- [fix] ruby syntax highlighting updates
+- [fix] react syntax highlighting updates
+- [fix] c++ syntax highlighting updates
+
 ## 1.1.2 (04-10-17)
 
 - [new] add transparency to tab drop background
 - [new] todo / fixme highlighting in python comments
+- [fix] sass / scss updates
+- [fix] react jsx updates
+- [fix] removed dashed borders in version control status
 - [fix] find all references files color fix
 
 ## 1.1.1 (21-09-17)
