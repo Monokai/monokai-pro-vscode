@@ -1,5 +1,18 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.6 (11-04-18)
+
+- [fix] updates for new visual code style definitions
+- [fix] highlight color non-opaque
+- [fix] embedded entities fix
+- [fix] invisibles a bit less prominent
+- [fix] closing bracket color for script tags in html
+- [fix] closing php tag
+- [new] git status syntax highlighting
+- [new] pug icon
+- [new] elixir icon
+- [new] graphql icon
+
 ## 1.1.5 (31-12-17)
 
 - [new] handlebars icon
