@@ -1,5 +1,23 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.7 (10-06-18)
+
+- [fix] updates for new visual code style definitions
+- [fix] list hover more prominent
+- [fix] current file in sidebar gets subtle background
+- [fix] ruby syntax highlighting fixes
+- [fix] javascript class name colors
+- [fix] github icon
+- [fix] go icon
+- [new] root folder icons
+- [new] npm icon
+- [new] angular icon
+- [new] erlang icon
+- [new] typescript icon
+- [new] reason icon
+- [new] eslint icon
+- [new] .env icon
+
 ## 1.1.6 (11-04-18)
 
 - [fix] updates for new visual code style definitions
