@@ -1,5 +1,9 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.8 (11-06-18)
+
+- [fix] reverted highlighting class scopes
+
 ## 1.1.7 (10-06-18)
 
 - [fix] updates for new visual code style definitions
