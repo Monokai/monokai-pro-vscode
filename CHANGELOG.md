@@ -1,5 +1,16 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.9 (12-11-18)
+
+- [fix] SCSS updates
+- [fix] show blade icon for laravel blade files
+- [fix] increased contrast diff background colors
+- [fix] user interface color tweaks
+- [new] settings view colors
+- [new] todo icon
+- [new] julia icon
+- [new] fortran icon
+
 ## 1.1.8 (11-06-18)
 
 - [fix] reverted highlighting class scopes
