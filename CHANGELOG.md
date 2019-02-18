@@ -1,5 +1,16 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.10 (18-02-19)
+
+- [fix] changed inactive focus background in lists
+- [fix] fixed function arguments color in c++
+- [new] added terraform icon
+- [new] changed git icon from octocat to official git icon
+- [new] added colors for search field in lists
+- [new] active color for activity bar
+- [new] modified tab colors
+- [new] webp images show image icon
+
 ## 1.1.9 (12-11-18)
 
 - [fix] SCSS updates
