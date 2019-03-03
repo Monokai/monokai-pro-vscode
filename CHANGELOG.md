@@ -1,5 +1,9 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.11 (03-03-19)
+
+- [fix] c++ syntax fixes
+
 ## 1.1.10 (18-02-19)
 
 - [fix] changed inactive focus background in lists
