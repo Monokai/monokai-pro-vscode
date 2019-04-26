@@ -1,5 +1,18 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.13 (06-04-26)
+
+- [new] classes in html syntax
+- [new] ids in html syntax
+- [fix] block cursor character color fix
+- [fix] julia icon fix
+- [fix] closing quote color in style attributes of html tags
+
+## 1.1.12 (06-03-19)
+
+- [fix] italics are back
+- [fix] python syntax highlighting
+
 ## 1.1.11 (03-03-19)
 
 - [fix] c++ syntax fixes
