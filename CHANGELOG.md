@@ -1,6 +1,6 @@
 # Monokai Pro for Visual Studio Code Changelog
 
-## 1.1.13 (06-04-26)
+## 1.1.13 (26-04-19)
 
 - [new] classes in html syntax
 - [new] ids in html syntax
