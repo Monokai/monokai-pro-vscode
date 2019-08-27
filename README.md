@@ -13,7 +13,7 @@ Monokai Pro is a color scheme, customized user interface theme and complete icon
 2. Command Palette ‣ Monokai Pro: select theme
 ```
 
-Find out more here: [www.monokai.pro](https://www.monokai.pro)
+Find out more here: [monokai.pro](https://monokai.pro)
 
 ![Monokai Pro](https://raw.githubusercontent.com/Monokai/monokai-pro-vscode/master/img/monokai-pro.png)
 

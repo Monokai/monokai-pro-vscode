@@ -1,6 +1,14 @@
 # Monokai Pro for Visual Studio Code Changelog
 
-## 1.1.13 (06-04-26)
+## 1.1.14 (24-08-19)
+
+- [new] stylus icon
+- [new] added c++ intellisense scopes
+- [fix] set extension kind to 'ui'
+- [fix] cls python variable color
+- [fix] url opener package update
+
+## 1.1.13 (26-04-19)
 
 - [new] classes in html syntax
 - [new] ids in html syntax
