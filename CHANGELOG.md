@@ -1,5 +1,17 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.15 (17-02-20)
+
+- [fix] diff highlight text offset
+- [fix] updated extension kind
+- [new] rust syntax highlighting updates
+- [new] toml icon
+- [new] dart icon
+- [new] matlab icon
+- [new] symbol icon colors
+- [new] light bulb icon colors
+- [new] debug icon colors
+
 ## 1.1.14 (24-08-19)
 
 - [new] stylus icon
