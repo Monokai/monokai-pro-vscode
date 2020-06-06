@@ -1,5 +1,15 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.16 (06-06-20)
+
+- [new] haxe icon
+- [new] elm icon
+- [fix] elm highlight improvements
+- [fix] python highlight improvements
+- [fix] constant variable highlight improvements
+- [fix] remote icon color
+- [fix] list selection color
+
 ## 1.1.15 (17-02-20)
 
 - [fix] diff highlight text offset
