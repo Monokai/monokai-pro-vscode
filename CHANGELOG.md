@@ -1,5 +1,9 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.17 (09-06-20)
+
+- [fix] constant variable highlighting
+
 ## 1.1.16 (06-06-20)
 
 - [new] haxe icon
