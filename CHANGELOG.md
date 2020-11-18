@@ -1,5 +1,12 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.18 (18-11-20)
+
+- [new] chart colors
+- [new] crystal icon
+- [fix] git decoration colors
+- [fix] vue custom component color
+
 ## 1.1.17 (09-06-20)
 
 - [fix] constant variable highlighting
