@@ -1,5 +1,10 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.19 (06-04-21)
+
+- [fix] editor theme additions
+- [fix] ruby syntax highlight improvements
+
 ## 1.1.18 (18-11-20)
 
 - [new] chart colors
