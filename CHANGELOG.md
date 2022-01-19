@@ -1,5 +1,14 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.20 (19-01-22)
+
+- [fix] constants in python
+- [fix] docstrings in python
+- [new] added svelte icon
+- [new] added rescript icon
+- [new] added support for untrusted workspaces
+- [new] added support for colored bracket pairs
+
 ## 1.1.19 (06-04-21)
 
 - [fix] editor theme additions
