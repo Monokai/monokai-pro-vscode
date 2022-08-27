@@ -1,5 +1,15 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.1.21 (27-08-22)
+
+- [new] added hare icon
+- [new] added clojure icon
+- [new] added notebook colors
+- [new] added test colors
+- [new] added menu colors
+- [new] added inline value colors
+- [fix] fixed various user interface colors
+
 ## 1.1.20 (19-01-22)
 
 - [fix] constants in python
