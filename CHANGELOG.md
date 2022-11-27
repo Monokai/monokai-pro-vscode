@@ -1,5 +1,9 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.2.0 (27-11-22)
+
+- [new] web extension compatible
+
 ## 1.1.21 (27-08-22)
 
 - [new] added hare icon
