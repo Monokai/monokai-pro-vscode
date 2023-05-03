@@ -1,5 +1,13 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.2.1 (03-05-23)
+
+- [new] profile badge color
+- [fix] trailing comma fix
+- [fix] link tailwind syntax to css icon
+- [fix] transparent scroll bar in diff view
+- [fix] markdown punctuation in links
+
 ## 1.2.0 (27-11-22)
 
 - [new] web extension compatible
