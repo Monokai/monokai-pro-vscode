@@ -1,5 +1,14 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.2.2 (22-12-23)
+
+- [new] inlay hints colors
+- [new] astro icon
+- [new] mdx icon
+- [fix] typescript color improvements
+- [fix] java import color fix
+- [fix] various color fixes
+
 ## 1.2.1 (03-05-23)
 
 - [new] profile badge color
