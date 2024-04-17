@@ -1,5 +1,30 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.3.0 (17-04-24)
+
+- [new] adonisjs icon
+- [new] ansible icon
+- [new] archive icon
+- [new] bun icon
+- [new] composer icon
+- [new] gruntfile icon
+- [new] license icon
+- [new] next icon
+- [new] nextjs icon
+- [new] nginx icon
+- [new] nodejs icon
+- [new] opengl icon
+- [new] postcss icon
+- [new] rollup icon
+- [new] settings icon
+- [new] stylelint icon
+- [new] sublime icon
+- [new] tailwind icon
+- [new] visualstudio icon
+- [new] webpack icon
+- [new] yarn icon
+- [fix] various color fixes
+
 ## 1.2.2 (22-12-23)
 
 - [new] inlay hints colors
