@@ -1,5 +1,11 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 1.3.1 (18-04-24)
+
+- [fix] command center debug background
+- [fix] vue icon
+- [fix] various file icon syntax scoping fixes
+
 ## 1.3.0 (17-04-24)
 
 - [new] adonisjs icon
