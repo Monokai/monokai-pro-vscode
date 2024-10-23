@@ -1,5 +1,13 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.0 (23-10-24)
+
+- [new] Monokai Pro Light
+- [new] Monokai Pro Light (filter Sun)
+- [new] next.config.ts icon
+- [new] bun.lockb icon
+- [new] kotlin icon
+
 ## 1.3.2 (21-04-24)
 
 - [new] gulpfile icon
