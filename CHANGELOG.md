@@ -1,5 +1,9 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.1 (24-10-24)
+
+- [fix] Light activity bar fix
+
 ## 2.0.0 (23-10-24)
 
 - [new] Monokai Pro Light
