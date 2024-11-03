@@ -1,5 +1,10 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.2 (03-11-24)
+
+- [fix] light theme categorization
+- [fix] UI tweaks
+
 ## 2.0.1 (24-10-24)
 
 - [fix] Light activity bar fix

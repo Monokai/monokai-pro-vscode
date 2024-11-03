@@ -17,14 +17,14 @@ Monokai Pro comes in a **dark theme** and a **light theme**. Regardless of your 
 
 Find out more here: [monokai.pro](https://monokai.pro)
 
-![Monokai Pro](https://raw.githubusercontent.com/Monokai/monokai-pro-vscode/master/img/monokai-pro.png)
+![Monokai Pro](https://raw.githubusercontent.com/Monokai/monokai-pro-vscode/main/img/monokai-pro.png)
 
 Pixel-perfect file icons
 ------------------------
 
 The icons of Monokai Pro have all been created from scratch to ensure they are easily recognizable on small sizes in the side bar. They are designed to help you quickly find the right files in your project.
 
-![Monokai Pro Icons](https://raw.githubusercontent.com/Monokai/monokai-pro-vscode/master/img/monokai-pro-icons.png)
+![Monokai Pro Icons](https://raw.githubusercontent.com/Monokai/monokai-pro-vscode/main/img/monokai-pro-icons.png)
 
 Color filters
 -------------
