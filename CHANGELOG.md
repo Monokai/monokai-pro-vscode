@@ -1,5 +1,10 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.5 (04-12-24)
+
+- [fix] rust improvements
+- [fix] ansible improvements
+
 ## 2.0.2 (03-11-24)
 
 - [fix] light theme categorization
