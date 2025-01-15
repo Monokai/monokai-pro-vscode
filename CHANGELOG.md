@@ -1,5 +1,11 @@
 # Monokai Pro for Visual Studio Code Changelog
 
+## 2.0.6 (15-01-25)
+
+- [fix] UI checkbox, button color tweaks
+- [add] cuda c++ icons
+- [add] bun.lock icon
+
 ## 2.0.5 (04-12-24)
 
 - [fix] rust improvements
